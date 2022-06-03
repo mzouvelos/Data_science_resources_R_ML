@@ -76,6 +76,10 @@ Lastly, all the material is mostly relatively recent and online free resources, 
  
   *This book is designed to take you from knowing nothing about Shiny to being an expert developer who can write large complex apps that are still maintainable and performant.*
   
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) (Book)
+ 
+  *This book will not get you started with shiny, nor talk how to work with shiny once it is sent to production. What we will be discussing in this book is the process of building an application that will later be sent to production.*
+  
 - [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/) (Book)
 
   *This book is teaching Data Scientists how to deploy, host, and maintain web applications.*
